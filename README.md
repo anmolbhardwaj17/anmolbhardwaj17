@@ -17,10 +17,11 @@
 
 ### Social Media :
 
+[<img align="left" alt="Anmol | LinkedIn" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/linkedin.svg" />][linkedin]
 [<img align="left" alt="Website" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/globe.svg" />][website]
 [<img align="left" alt="Anmol | Insta" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/instagram.svg" />][instagram]
 [<img align="left" alt="Anmol | Twitter" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/twitter.svg" />][twitter]
-[<img align="left" alt="Anmol | LinkedIn" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/linkedin.svg" />][linkedin]
+
 
 
 
