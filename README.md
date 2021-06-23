@@ -1,9 +1,14 @@
+<img width="200px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/int.gif">
+
 # Hi! I'm Anmol Bhardwaj
 [![Twitter Follow](https://img.shields.io/twitter/follow/anmolbhardwajj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/anmolbhardwajj)
 [![Website](https://img.shields.io/website?color=FF7139&logo=Chrome%20Browser&style=for-the-badge&up_message=online&url=https://portfolio-anmol-c7e12.web.app/)](https://portfolio-anmol-c7e12.web.app/)
 [![GitHub followers](https://img.shields.io/github/followers/sahilsaleem2907?color=181717&logo=Github&style=for-the-badge)](https://github.com/anmolbhardwaj17)
 
-<br />
+
+## Web Developer and Deep Learning enthusiast.
+
+<br/>
 
 ### Programming languages that I use :
 
