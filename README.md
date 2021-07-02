@@ -1,4 +1,4 @@
-<img width="200px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/int.gif">
+<img width="200px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/sd.gif">
 
 # Hi! I'm Anmol Bhardwaj
 [![Twitter Follow](https://img.shields.io/twitter/follow/anmolbhardwajj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/anmolbhardwajj)
