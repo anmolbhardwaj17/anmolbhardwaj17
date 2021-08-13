@@ -3,8 +3,6 @@
 # Hi! I'm Anmol Bhardwaj
 [![Twitter Follow](https://img.shields.io/twitter/follow/anmolbhardwajj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/anmolbhardwajj)
 
-[![GitHub followers](https://img.shields.io/github/followers/sahilsaleem2907?color=181717&logo=Github&style=for-the-badge)](https://github.com/anmolbhardwaj17)
-
 
 ## Web Developer and Deep Learning enthusiast.
 
