@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/anmolbhardwajj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/anmolbhardwajj)
 
 
-## Web Developer and Deep Learning enthusiast.
+## React Developer and Blockchain enthusiast.
 
 <br/>
 
