@@ -4,7 +4,7 @@
 
 
 
-## React Developer and Blockchain enthusiast.
+## Software Developer and Blockchain enthusiast.
 
 <br/>
 
