@@ -11,6 +11,7 @@
 ### Programming languages that I use :
 
 <img align="left" alt="nodejs" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/nodejs.svg" />
+<img align="left" alt="nodejs" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/reactjs.svg" />
 <img align="left" alt="nodejs" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/angular.svg" />
 <img align="left" alt="nodejs" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/golang.svg" />
 <img align="left" alt="nodejs" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/mongodb.svg" />
