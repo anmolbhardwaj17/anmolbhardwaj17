@@ -4,7 +4,7 @@
 
 
 
-## Software Developer and Machine Learning enthusiast.
+## Software Developer and Blockchain enthusiast.
 
 <br/>
 
