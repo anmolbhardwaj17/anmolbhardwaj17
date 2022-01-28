@@ -6,6 +6,9 @@
 
 ## Software Developer and Blockchain enthusiast.
 
+<span>Currently building</span>
+<a href='https://tickets-nft.web.app/'>Tickets NFT</a>
+
 <br/>
 
 ### Programming languages that I use :
