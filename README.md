@@ -7,7 +7,7 @@
 ## Software Developer and Blockchain enthusiast.
 
 <span>Currently building</span>
-<a href='https://tickets-nft.web.app/'>Tickets NFT</a>
+<strong><a href='https://tickets-meta.com'>Tickets NFT</a></strong>
 
 <br/>
 
