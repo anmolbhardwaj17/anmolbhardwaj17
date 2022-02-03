@@ -4,7 +4,7 @@
 
 
 
-## Software Developer and Blockchain enthusiast.
+## FullStack Developer and Blockchain enthusiast.
 
 <span>Currently building</span>
 <strong><a href='https://tickets-meta.com'>Tickets NFT</a></strong>
@@ -40,7 +40,7 @@
 
 
 ---
-[website]: https://portfolio-anmol-c7e12.web.app/
+[website]: https://anmolbhardwaj.in/
 [twitter]: https://twitter.com/anmolbhardwajj
 [instagram]: https://www.instagram.com/bankrupt.designs/
 [linkedin]: https://www.linkedin.com/in/anmolbhardwaj/
