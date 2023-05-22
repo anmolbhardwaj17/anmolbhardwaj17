@@ -1,4 +1,4 @@
-<img width="200px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/sd.gif">
+<img width="200px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/sd.gif" autoplay>
 
 # Hi! I'm Anmol Bhardwaj
 
