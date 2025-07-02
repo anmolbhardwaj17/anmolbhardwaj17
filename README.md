@@ -8,7 +8,7 @@
 ## FullStack Developer and Blockchain enthusiast.
 
 <span>Currently building</span>
-<strong><a href='https://tickets-meta.com'>Tickets NFT</a></strong>
+<strong>Room simulator</strong>
 <!-- <p><a href='https://leetcode.com/anmolbhardwaj17/'>Leetcode</a></p> -->
 
 
