@@ -1,7 +1,7 @@
 <!-- <img autoplay width="200px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/sd.gif"> -->
-<img width="600px" src="https://anmolbhardwaj.in/assets/main.png">
 
-# Hi! I'm Anmol Bhardwaj
+
+#Anmol Bhardwaj
 
 
 
