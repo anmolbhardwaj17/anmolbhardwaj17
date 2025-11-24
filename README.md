@@ -5,10 +5,10 @@
 
 
 
-## FullStack Developer and Blockchain enthusiast.
+## Software Engineer and free will connoisseur
 
 <span>Currently building</span>
-<strong>Room simulator</strong>
+<strong>Turtle 🐢</strong>
 <!-- <p><a href='https://leetcode.com/anmolbhardwaj17/'>Leetcode</a></p> -->
 
 
