@@ -1,6 +1,6 @@
 ### Anmol Bhardwaj
 
-Building agents, mostly by telling them no
+Building agents, mostly by telling them no.
 
 **Currently building [Atlas](https://atlas-web.fly.dev/)**
 
