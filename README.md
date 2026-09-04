@@ -1,6 +1,7 @@
 ### Anmol Bhardwaj
 
-Backend engineer. LLM pipelines, queues, and graphs.
+// Backend engineer. LLM pipelines, queues, and graphs.
+Building agents, mostly by telling them no
 
 **Currently building [Atlas](https://atlas-web.fly.dev/)**
 
